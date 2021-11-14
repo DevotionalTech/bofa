@@ -4,4 +4,6 @@ List of users
  Elvis
  Guy
  Edwin
-
+ Queen
+ Rosy
+ Mary
